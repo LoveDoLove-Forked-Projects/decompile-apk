@@ -6,3 +6,8 @@
 
 # 反编译工具由 setup.sh 从官方 Release 下载，不入库
 tools/
+
+# AI 本地文档
+AGENTS.md
+CLAUDE.md
+ROADMAP.md
